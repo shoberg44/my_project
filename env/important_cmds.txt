@@ -1,0 +1,7 @@
+python -m venv env // activates venv
+
+env/Scripts/activate.bat // activates venv
+env/Scripts/deactivate //?
+deactivate // leaves the venv
+python manage.py runserver // starts the server
+CTR-C //stops the server
