@@ -7,6 +7,7 @@ deactivate // leaves the venv
 python manage.py runserver // starts the server
 CTR-C //stops the server
 
+git add filename.txt // stages this file if its WITHIN THE DIRECTORY (be sure to cd to root folder)
 git add . // stages all new/changed files WITHIN THE DIRECTORY (be sure to cd to root folder)
 git commit -m "example commit message"
 git push
