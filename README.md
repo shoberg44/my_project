@@ -1,5 +1,5 @@
 # Educational project 
-This is the educational project at Imagine. 
+This is the educational project at Imagine Software at Michigan State University. 
 
 ## Installation
 First, activate virtual environment within the terminal 
