@@ -1,0 +1,25 @@
+fieldset {
+    border: none;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+body {
+    width: 90vw;
+    height: 90vh;
+}
+
+textarea {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+input[type="submit"] {
+    display: inline;
+    margin: 1em auto;
+    height: 2em;
+}

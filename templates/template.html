@@ -5,8 +5,7 @@
     <title>Flask Parent Template</title>
 
     <link rel="stylesheet" href="{{ url_for('static',    filename='css/template.css') }}">
-
-</head>
+  </head>
   <body>
     <header>
       <div class="container">
@@ -15,9 +14,10 @@
           <ul class="menu">
             <li><a href="{{ url_for('home') }}">Home</a></li>
             <li><a href="{{ url_for('about') }}">About</a></li>
+            <li><a href="{{ url_for('ai_chatbot') }}">AI Chatbot</a></li>
           </ul>
         </nav></strong>
       </div>
     </header>
- </body>
+  </body>
 </html>

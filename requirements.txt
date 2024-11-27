@@ -1,2 +1,6 @@
 Flask
 Werkzeug
+Ollama
+langchain-core
+langchain-community
+langchain-ollama
